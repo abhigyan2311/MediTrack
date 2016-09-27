@@ -1,0 +1,2 @@
+[21-Oct-2015 07:20:37 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/scobbyabhi/public_html/meditrack/index.php on line 26
+[21-Oct-2015 07:45:14 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/scobbyabhi/public_html/meditrack/index.php on line 26
