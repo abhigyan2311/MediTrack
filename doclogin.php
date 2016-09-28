@@ -1,8 +1,5 @@
 <?php
-			$host="localhost";
-			$user="root";
-			$password="Medbox@12345";
-			$db="meditrack";
+			require './db.php';
 			session_start();
 				$con=mysql_connect($host,$user,$password);
 				if(!$con)
