@@ -1,5 +1,5 @@
 <?php 
-  require './db.php';
+  include './db.php';
   $con = mysqli_connect($host,$user,$password,$db);
   $uid = $_POST['uid'];
   $time = $_POST['time'];

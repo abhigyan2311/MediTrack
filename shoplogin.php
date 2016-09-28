@@ -1,5 +1,5 @@
 <?php
-			require './db.php';
+			include './db.php';
 			session_start();
 				$con=mysql_connect($host,$user,$password);
 				if(!$con)
